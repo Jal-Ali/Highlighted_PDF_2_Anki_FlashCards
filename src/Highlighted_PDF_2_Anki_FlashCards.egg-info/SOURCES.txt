@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/H_PDF_2_Anki_FCards/H_PDF_2_Anki_FCards.py
+src/H_PDF_2_Anki_FCards/RUN.py
+src/H_PDF_2_Anki_FCards/__init__.py
+src/Highlighted_PDF_2_Anki_FlashCards.egg-info/PKG-INFO
+src/Highlighted_PDF_2_Anki_FlashCards.egg-info/SOURCES.txt
+src/Highlighted_PDF_2_Anki_FlashCards.egg-info/dependency_links.txt
+src/Highlighted_PDF_2_Anki_FlashCards.egg-info/requires.txt
+src/Highlighted_PDF_2_Anki_FlashCards.egg-info/top_level.txt

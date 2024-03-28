@@ -1,0 +1,23 @@
+# pyproject.toml
+
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Highlighted_PDF_2_Anki_FlashCards"
+version = "0.0.1"
+description = "No description yet"
+readme = "README.md"
+authors = [{ name = "Ali Jalaali", email = "a.jalali.248@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["Anki"]
+dependencies = ["googletrans","PyMuPDF","PyQt6"]
+
+[project.urls]
+Homepage = "https://github.com/Jal-Ali/Highlighted_PDF_2_Anki_FlashCards"

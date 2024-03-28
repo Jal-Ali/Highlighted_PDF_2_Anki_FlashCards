@@ -1,0 +1,3 @@
+googletrans
+PyMuPDF
+PyQt6
